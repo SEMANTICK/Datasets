@@ -1,0 +1,6 @@
+1) Research paper - The Normal EEG of the Waking Adult - http://www.ccs.fau.edu/~bressler/EDU/EPhys/References/Niedermeyer_1999.pdf
+2) Research paper - Mental Stress Quantification Using EEG Signals - https://link.springer.com/chapter/10.1007/978-981-10-0266-3_4
+3) Research paper - Electroencephalography (Eeg) - https://onlinelibrary.wiley.com/doi/full/10.1002/9781118901731.iecrm0080
+4) Research paper - A Signal Processing Tool for OpenBCI - https://www.researchgate.net/profile/Esteban-Duran/publication/314089192_Feature_Extraction_and_Signal_Processing_of_Open-Source_Brain-Computer_Interface/links/5a09034d4585157013a767a9/Feature-Extraction-and-Signal-Processing-of-Open-Source-Brain-Computer-Interface.pdf
+5) Research paper - Classification of EEG Signals in a Brain-Computer Interface System - https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/252472
+6) Web page refc. - EEG Basics - https://wiki.cimec.unitn.it/tiki-index.php?page=Data+pre-processing
