@@ -4,3 +4,7 @@
 4) Research paper - A Signal Processing Tool for OpenBCI - https://www.researchgate.net/profile/Esteban-Duran/publication/314089192_Feature_Extraction_and_Signal_Processing_of_Open-Source_Brain-Computer_Interface/links/5a09034d4585157013a767a9/Feature-Extraction-and-Signal-Processing-of-Open-Source-Brain-Computer-Interface.pdf
 5) Research paper - Classification of EEG Signals in a Brain-Computer Interface System - https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/252472
 6) Web page refc. - EEG Basics - https://wiki.cimec.unitn.it/tiki-index.php?page=Data+pre-processing
+7) Research paper - Feature Extraction and Signal Processing of Open-Source Brain- Computer Interface - https://www.reserchgate.net/publication/314089192
+8) Web page refc. - Cancelling gain - https://github.com/OpenBCI/OpenBCI_GUI/tree/master/OpenBCI_GUI
+9) Web page refc. - personal EEG research - http://generalfox.com/index.php/eeg/
+10) video refc. - Stress Causing signal - https://youtu.be/EryOIqwmPSw
