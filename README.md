@@ -11,10 +11,6 @@ Each task assigned was irrespective of the age group
 5) The data was collected into 2 different forms one the training set data, that was collected when the subject had to undergo the tasks, and the second set of data was collected when the subject was undergoing meditation that is relaxation.
 6) We then provided a Google form consisting of different questions that were framed by the guidance of psychiatrists, these questions help us add more information about the subject while determining the stress of the subject.
 
-Delete Lines, Python script that deletes the first 3 lines in the txt, so that you can convert the file to csv systematically.
-Covert from .txt to csv python scripts, check the comments in the script first.
-
-(NOTE: Kindly use Delete Lines script before Convert to csv.py)
 
 
 This repository contains the following files:
@@ -25,7 +21,10 @@ This repository contains the following files:
 5) Filtering and diagnosing 
 6) Perceived stress scale 
 7) The questions.
-8) Delete Lines.py
-9) Convert to csv.py
+8) Convertion and filtering python script:
+  1) Deleting the first 4 lines of the raw txt files
+  2) Converting the raw data to raw csv form
+  3) Filtering of the data using filters and creating new file of the name processed_filename.csv
+
 
 (Note The Identity of the subjects are anonymous there are 18 different subjects)
