@@ -1,10 +1,3 @@
-import os
-import numpy as np
-import pandas as pd
-from brainflow.data_filter import DataFilter, FilterTypes, AggOperations
-
-
-
 '''
 
 Replace file location and file name and run the code
@@ -12,12 +5,13 @@ The file should be in CSV format and the initial four rows with openBCI metadata
 The csv file should directly start with column headers
 The execution results out in a csv file with a cleaned data
 Note: Kindly Adjust the file locations carefully, At file URL 3 make sure you set the location to the directory where the converted csv files are generated
+
 '''
 
-
-
-
-
+import os
+import numpy as np
+import pandas as pd
+from brainflow.data_filter import DataFilter, FilterTypes, AggOperations
 
 def delete_multiple_lines(original_file, line_numbers):
     """In a file, delete the lines at line number in given list"""
@@ -42,14 +36,6 @@ def delete_multiple_lines(original_file, line_numbers):
         os.rename(dummy_file, original_file)
     else:
         os.remove(dummy_file)
-
-
-
-
-
-
-
-
 
 def get_data(file):
     dataset = pd.read_csv(file)
@@ -100,8 +86,6 @@ for i in L:
 
 print("\nConvertion Completed !\n\n\n")
 
-
-
 print("Processing Started...") 
 for j in L:
     file_location = "C:\\Users\\Mark Wagh\\Desktop\\Test Folder";             # File URL 3
@@ -123,7 +107,3 @@ for j in L:
     processed_data.to_csv('processed_'+file_name)
 
 print("Completed !")
-
-
-
-
