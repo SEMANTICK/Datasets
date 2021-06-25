@@ -8,3 +8,7 @@
 8) Web page refc. - Cancelling gain - https://github.com/OpenBCI/OpenBCI_GUI/tree/master/OpenBCI_GUI
 9) Web page refc. - personal EEG research - http://generalfox.com/index.php/eeg/
 10) video refc. - Stress Causing signal - https://youtu.be/EryOIqwmPSw
+11)Research paper- EEG Signals to Measure Mental Stress Ahmad Rauf Subhani†, Likun Xia, Aamir Saeed Malik
+12)Research paper- Classification of Brain-Computer Interface Data Omar AlZoubi1,2, Irena Koprinska1 and Rafael A. Calvo2 
+13)Research paper- EEG Signal Analysis: A Survey D. Puthankattil Subha & Paul K. Joseph 
+14)Research paper- Real time stress detection system based on EEG signals. Vanitha V1*, Krishnan P2 
